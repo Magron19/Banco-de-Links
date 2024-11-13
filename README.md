@@ -12,18 +12,18 @@ O sistema é dividido em duas principais classes:
 * Editar Link: Selecione o link a ser editado pelo número, e atualize o título, URL, descrição ou assunto.
 * Excluir Link: Remova um link selecionando-o pelo número na lista.
 * Listar Links: Exibe todos os links cadastrados, organizados por assunto.
-* Instalação e Execução
   
-# Clone o Repositório:
+# Instalação e Execução:
+* 1. Clone o Repositório:
 * git clone <URL_DO_REPOSITORIO>
 
-# Navegue até o Diretório do Projeto:
+* 2. Navegue até o Diretório do Projeto:
 * cd sistema-gerenciamento-links
 
-#Compile o Código:
+* 3. Compile o Código:
 * javac LinkManager.java
   
-#Execute o Programa:
+* 4. Execute o Programa:
 * java LinkManager
   
 # Exemplo de Uso:
