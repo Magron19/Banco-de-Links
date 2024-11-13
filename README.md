@@ -6,7 +6,8 @@ O sistema é dividido em duas principais classes:
 
 * Link: Representa um link com título, URL, descrição e assunto.
 * LinkManager: Contém o fluxo principal da aplicação e o CRUD para gerenciar os links.
-* Funcionalidades
+  
+# Funcionalidades:
 * Adicionar Link: Insira o título, URL, descrição e o assunto para salvar um novo link.
 * Editar Link: Selecione o link a ser editado pelo número, e atualize o título, URL, descrição ou assunto.
 * Excluir Link: Remova um link selecionando-o pelo número na lista.
